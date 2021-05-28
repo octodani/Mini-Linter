@@ -1,2 +1,2 @@
-# MIni-Linter
+# Mini-Linter
 JavaScript
