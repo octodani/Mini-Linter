@@ -1,0 +1,2 @@
+# MIni-Linter
+JavaScript
